@@ -1,50 +1,49 @@
-# Welcome to your Expo app 👋
+# Gym App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to the Gym App, a fitness tracking application built using **Expo React Native** and **Firebase**. This project helps users track their workouts, step count, water and food intake, and overall fitness progress.
 
-## Get started
+## Table of Contents
 
-1. Install dependencies
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Contact](#contact)
 
-   ```bash
-   npm install
-   ```
+## Features
 
-2. Start the app
+- **Google Authentication**: Log in and sign up using Firebase Google Auth.
+- **Exercise Management**:
+  - Track exercises under **Chest**, **Back**, and **Legs** categories.
+  - Add sets, reps, and weight (kgs) for each exercise.
+- **Daily and Weekly Tracking**:
+  - View a **7-day tracker** with the current day highlighted, displaying the date.
+- **Step Counter**:
+  - Monitor your steps and see an estimate of **calories burned**.
 
-   ```bash
-    npx expo start
-   ```
+## Screenshots
 
-In the output, you'll find options to open the app in a
+### Landing Page
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+![Landing Page](assets/images/landingpage.jpg)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Home Page
 
-## Get a fresh project
+![Home Page](assets/images/homepage.jpg)
 
-When you're ready, run:
+### Chest Page
 
-```bash
-npm run reset-project
-```
+![Chest Page](assets/images/chestpage.jpg)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Back Page
 
-## Learn more
+![Back Page](assets/images/backpage.jpg)
 
-To learn more about developing your project with Expo, look at the following resources:
+### Chest Page Sets
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+![Chest Page Sets](assets/images/chestpageSets.jpg)
 
-## Join the community
+## Contact
 
-Join our community of developers creating universal apps.
+For any questions or feedback, please contact:
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- **Your Name**: foxfireninetails9@gmail.com
+- **GitHub**: [qbeeeeee](https://github.com/qbeeeeee)
